@@ -1,2 +1,8 @@
-Fullstack Flask Blogging Application .
-Uses HTML,CSS and Bootstrap4 for frontend.SQL alchemy is used as the ORM for the project.Allows users to perform CRUD operations for thier posts and also their profile pictures
+###Flask Blog
+>Fullstack Flask Blogging Application .Allows users to perform CRUD operations on their posts and pictures.Provides user authentication, email-based registration features.
+
+#Front End
+*Built using HTML5 and CSS3 templates along with the Flask Jinja templating engine
+
+#Back End
+*Built using Flask.SQLite is used as the database for storing user info. SQLAlchemy is being used as the ORM for creating easy to use Python object representation models of the database.
